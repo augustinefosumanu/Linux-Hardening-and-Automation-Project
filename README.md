@@ -1,7 +1,7 @@
 # Linux Hardening and Automation Project
 
 <h2>Overview</h2>
-This lab focused on auditing and hardening a Linux server for The Baker Street Corporation (BSC) to protect confidential data from security breaches. Over multiple phases, I implemented system security enhancements, enforced access controls, and automated security tasks.
+This extensive project focused on auditing and hardening a Linux server for The Baker Street Corporation (BSC) - a fictional organization - to protect confidential data from security breaches. Over multiple phases, I implemented system security enhancements, enforced access controls, and automated security tasks.
 
 <h2>Technical Skills</h2>
 ✅ System Inventory & Backup Management </br>
