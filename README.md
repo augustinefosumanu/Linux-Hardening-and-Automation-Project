@@ -175,3 +175,291 @@ This lab focused on auditing and hardening a Linux server for The Baker Street C
 <img src="https://i.imgur.com/6FxT2KG.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
