@@ -14,3 +14,246 @@ This lab focused on auditing and hardening a Linux server for The Baker Street C
 ✅ Logging & Monitoring Implementation </br>
 ✅ Security Automation & Scheduling (cron) </br>
 ✅ Summary Report Documentation </br>
+
+<h2>  </h2>
+
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+
+<h2>  </h2>
+
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+
+<h2>  </h2>
+
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+
+<h2>  </h2>
+
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+
+<h2>  </h2>
+
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+
+<h2>  </h2>
+
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+
+<h2>  </h2>
+
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+
+<h2>  </h2>
+
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+
+<h2>  </h2>
+
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+
+<h2>  </h2>
+
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+
+<h2>  </h2>
+
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+
+<h2>  </h2>
+
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+
+<h2>  </h2>
+
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+
+<h2>  </h2>
+
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+
+<h2>  </h2>
+
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+
+
+<h2>  </h2>
+
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+
+<h2>  </h2>
+
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+
+<h2>  </h2>
+
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+
+<h2>  </h2>
+
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+
+<h2>  </h2>
+
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<h2>  </h2>
+
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+
+<h2>  </h2>
+
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+
+<h2>  </h2>
+
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+
+<h2>  </h2>
+
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+
+<h2>  </h2>
+
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+
+<h2>  </h2>
+
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+
+<h2>  </h2>
+
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
