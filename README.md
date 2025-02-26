@@ -321,14 +321,14 @@ I removed the packages as these actions help maintain system security by elimina
 <img src="https://i.imgur.com/BU4hgt3.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
-<p align="center">
-<img src="https://i.imgur.com/Np7YjYZ.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
 
 <h2> Installation of Security Packages and Hardening Features </h2>
 I installed the following security packages to enhance system protection: <b>ufw</b>, <b>lynis</b>, and <b>tripwire</b> due to the protections they provide to the system. UFW
 provides an easy-to-use firewall for managing incoming and outgoing traffic, Lynis identifies vulnerabilities and misconfigurations, and Tripwire, a file integrity monitoring tool, detects unauthorized changes and alerts administrators.
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/Np7YjYZ.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
 <p align="center">
