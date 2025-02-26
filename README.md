@@ -69,13 +69,13 @@ I gathered essential system details from the running container by executing the 
 <img src="https://i.imgur.com/FBH9TmL.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
-<p align="center">
-<img src="https://i.imgur.com/7jaFLEQ.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
 
 <h2> Backing Up the Operating System </h2>
 I archived the root filesystem while excluding specific directories that do not need to be backed up, such as /proc, /tmp, /mnt, /sys, /dev, and /run. The resulting compressed tarball, baker_street_backup.tar.gz, ensured that essential system files were preserved for recovery or migration purposes.
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/7jaFLEQ.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
 <p align="center">
@@ -86,13 +86,13 @@ I archived the root filesystem while excluding specific directories that do not 
 <img src="https://i.imgur.com/oaTUVYM.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
-<p align="center">
-<img src="https://i.imgur.com/u8VvKWy.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
 
 <h2> Removing Terminated Staff Accounts and Associated Data </h2>
 I removed all staff members who had been terminated from the system. As part of this process, I ensured the deletion of their home directories and associated files to maintain data security and compliance.
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/u8VvKWy.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
 <p align="center">
@@ -107,13 +107,14 @@ I removed all staff members who had been terminated from the system. As part of 
 <img src="https://i.imgur.com/AF1Yzq2.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
-<p align="center">
-<img src="https://i.imgur.com/PjVEhKR.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
+
 
 <h2> User Account Management for Staff on Leave </h2>
 I locked the accounts of all staff members currently on temporary leave to restrict access during their absence. Additionally, I unlocked the accounts of any employed users to ensure they could access the system without interruption.
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/PjVEhKR.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
 <p align="center">
@@ -124,13 +125,13 @@ I locked the accounts of all staff members currently on temporary leave to restr
 <img src="https://i.imgur.com/qdxMPSY.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
-<p align="center">
-<img src="https://i.imgur.com/MKpgRwD.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
 
 <h2> Employee Group Reassignment and Marketing Department Closure </h2>
 I moved all employees from the marketing department to a newly created group called "research," ensuring that the group was created if it did not already exist. Additionally, I removed the marketing group from the system, as the marketing department was officially closed this year.
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/MKpgRwD.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
 <p align="center">
@@ -159,7 +160,7 @@ I updated the password requirements for all users to enhance security. To implem
 <br />
 <br />
 <p align="center">
-<img src="https://i.imgur.com/PAXu2JF.png" height="80%" width="90%" alt=""/>
+<img src="https://i.imgur.com/J24ieQ8.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
 
@@ -192,13 +193,13 @@ Allowed all employees in the research group to execute the script at: <b>/tmp/sc
 <img src="https://i.imgur.com/DWxWGE2.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
-<p align="center">
-<img src="https://i.imgur.com/j5IL53g.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
 
 <h2> Restricting World Permissions in User Home Directories </h2>
 I identified and removed any world permissions (read, write, or execute) from files located in all user home directories. This was done to enhance security and ensure that no files were globally accessible. The permissions were updated to restrict unauthorized access while maintaining necessary user functionality.
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/j5IL53g.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
 <p align="center">
@@ -213,10 +214,6 @@ I identified and removed any world permissions (read, write, or execute) from fi
 <img src="https://i.imgur.com/H6b3IVJ.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
-<p align="center">
-<img src="https://i.imgur.com/Kqeb2Wz.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
 
 <h2> Updating File Permissions for Department-Specific Scripts </h2>
 I searched for and updated file permissions for department-specific scripts using a case-insensitive search. The following changes were applied:<br />
@@ -225,6 +222,10 @@ Engineering scripts (files containing "engineering" in the filename): Restricted
 Research scripts: Granted permissions exclusively to the research group, ensuring only authorized members could access or modify them.<br />
 Finance scripts: Adjusted permissions to allow only finance group members to view, edit, or execute these files.<br />
 These changes were made to ensure proper access control and security for department-specific scripts.<br />
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/Kqeb2Wz.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
 <p align="center">
@@ -243,10 +244,6 @@ These changes were made to ensure proper access control and security for departm
 <img src="https://i.imgur.com/6FxT2KG.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
-<p align="center">
-<img src="https://i.imgur.com/vvcaG1A.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
 
 <h2> SSH Security Configuration Update </h2>
 I updated the SSH configuration to enhance security by implementing the following restrictions:<br />
@@ -257,6 +254,10 @@ Restricted SSH to only use port 22, preventing connections on other ports.<br />
 Enabled SSH Protocol 2 to ensure secure communication.<br />
 After applying these updates, I restarted the SSH service using the command: <b>service ssh restart
 </b>. These changes help improve system security and reduce unauthorized access risks.
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/vvcaG1A.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
 <p align="center">
@@ -279,13 +280,13 @@ After applying these updates, I restarted the SSH service using the command: <b>
 <img src="https://i.imgur.com/90eXiCu.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
-<p align="center">
-<img src="https://i.imgur.com/TPiRcAt.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
 
 <h2> System Package Update and Upgrade </h2>
 I updated the package manager to ensure it had the latest package information by running: <b>apt update</b>. Following that, I upgraded all installed packages to their latest versions by executing: <b>apt upgrade -y</b>. These updates help maintain system stability, security, and performance by ensuring all packages are up to date.
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/TPiRcAt.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
 <p align="center">
@@ -296,16 +297,16 @@ I updated the package manager to ensure it had the latest package information by
 <img src="https://i.imgur.com/LkTK0dB.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
-<p align="center">
-<img src="https://i.imgur.com/h0frL8Z.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
 
 <h2> Generating Installed Package List and Security Audit </h2>
 I created a file named package_list.txt containing a list of all installed packages using the command: <b>apt list --installed > package_list.txt</b>. I then checked for the presence of telnet and rsh-client, as these packages can introduce security risks:
 Telnet: Transmits data, including passwords, in plaintext, making it vulnerable to interception and man-in-the-middle attacks.<br />
 RSH-Client: Lacks encryption, allowing credentials and data to be easily captured by attackers.<br />
 I removed the packages as these actions help maintain system security by eliminating insecure protocols and reducing potential attack vectors.
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/h0frL8Z.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
 <p align="center">
@@ -338,15 +339,15 @@ provides an easy-to-use firewall for managing incoming and outgoing traffic, Lyn
 <img src="https://i.imgur.com/s5iAmbn.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
-<p align="center">
-<img src="https://i.imgur.com/xaSvXiU.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
 
 <h2> Service Audit and Removal of Unnecessary Services </h2>
 I listed all running services and saved the output to service_list.txt. I then checked if MySQL or Samba services were running, as these can pose security risks if not properly configured:
 MySQL: If not secured, it can be an entry point for unauthorized database access.<br />
 Samba: Can expose file-sharing services to unauthorized users if misconfigured.<br />
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/xaSvXiU.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
 <p align="center">
@@ -357,10 +358,6 @@ Samba: Can expose file-sharing services to unauthorized users if misconfigured.<
 <img src="https://i.imgur.com/HMjnIWE.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
-<p align="center">
-<img src="https://i.imgur.com/Ya6u8qR.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
 
 <h2> Configuring Persistent Logging and Log Rotation </h2>
 I modified the journald.conf file located at /etc/systemd/journald.conf using nano to enhance log management. The following settings were updated and uncommented:
@@ -369,6 +366,10 @@ I modified the journald.conf file located at /etc/systemd/journald.conf using na
 Additionally, I edited the log rotation settings in <b>/etc/logrotate.conf</b> to prevent logs from consuming too much space. The changes included:
 Changing log rotation from weekly to daily.<br />
 Setting logs to rotate out after 7 days.<br />
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/Ya6u8qR.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
 <p align="center">
