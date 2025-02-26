@@ -2,10 +2,9 @@
 
 <h2>Overview</h2>
 This extensive project focused on auditing and hardening a Linux server for The Baker Street Corporation (BSC) - a fictional organization - to protect confidential data from security breaches. Over multiple phases, I implemented system security enhancements, enforced access controls, and automated security tasks.
-
+</br>
 The code in this repository includes external sources. Below is the reference to its origin: </br>
-
-Source: https://docs.google.com/document/d/1kFHWmJFY9dnGnEl-TpFPJwsUIJlDeuLyKvVo-tKvLSA/edit?tab=t.0 </br>
+<b>Source</b>: https://docs.google.com/document/d/1kFHWmJFY9dnGnEl-TpFPJwsUIJlDeuLyKvVo-tKvLSA/edit?tab=t.0 </br>
 
 <h2>Technical Skills</h2>
 ✅ System Inventory & Backup Management </br>
