@@ -8,7 +8,10 @@ This extensive project focused on auditing and hardening a Linux server for The 
 <b>Note</b>
 </br>
 The code in this repository includes external sources. Below is the reference to its origin: </br>
-Source: https://docs.google.com/document/d/1kFHWmJFY9dnGnEl-TpFPJwsUIJlDeuLyKvVo-tKvLSA/edit?tab=t.0 </br>
+Sources: </br>
+  - https://docs.google.com/document/d/1kFHWmJFY9dnGnEl-TpFPJwsUIJlDeuLyKvVo-tKvLSA/edit?tab=t.0 </br>
+  - https://docs.google.com/document/d/1RmqqAC8ORFDnuLpojEUho-Rft4k_btqIrY4KenuXx1A/edit?tab=t.0 </br>
+  - https://docs.google.com/document/d/1xw6dCkLgGvhmBgP69EzQ_1zYBc46x5zfXCBLvpUveIg/edit?tab=t.0 </br>
 
 <h2>Technical Skills</h2>
 ✅ System Inventory & Backup Management </br>
