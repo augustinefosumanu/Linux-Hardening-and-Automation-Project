@@ -48,13 +48,13 @@ I accessed the running container by executing the following command: <b>sudo doc
 <img src="https://i.imgur.com/xTYZ01I.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
-<p align="center">
-<img src="https://i.imgur.com/ID5JGD8.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
   
 <h2> Retrieving System Information from the Container </h2>
 I gathered essential system details from the running container by executing the following commands: <b>hostname</b>, <b>cat /etc/os-release</b>, <b>free -h</b>, and <b>uptime</b>. These actions helped verify the container’s system specifications and status for further configuration and monitoring.
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/ID5JGD8.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
 <p align="center">
@@ -149,23 +149,20 @@ I moved all employees from the marketing department to a newly created group cal
 <img src="https://i.imgur.com/dneUaEb.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
-<p align="center">
-<img src="https://i.imgur.com/trx6Onp.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
 
 <h2> Updating Password Requirements for User Accounts </h2>
 I updated the password requirements for all users to enhance security. To implement these changes, I edited the <b>/etc/pam.d/common-password</b> file and added the necessary settings to the line: <b>password requisite pam_pwquality.so minlen=12 dcredit=2 ucredit=-1 lcredit=-1 ocredit=-2 retry=3</b>.
 <br />
 <br />
 <p align="center">
-<img src="https://i.imgur.com/PAXu2JF.png" height="80%" width="90%" alt=""/>
+<img src="https://i.imgur.com/trx6Onp.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
 <p align="center">
-<img src="https://i.imgur.com/G0EJNaH.png" height="80%" width="90%" alt=""/>
+<img src="https://i.imgur.com/PAXu2JF.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
+
 
 <h2> Restricting and Assigning Sudo Privileges </h2>
 I reviewed and updated sudo privileges to ensure proper access control. The following changes were implemented:</br>
@@ -173,6 +170,10 @@ I reviewed and updated sudo privileges to ensure proper access control. The foll
 Retained full sudo privileges only for Sherlock. All other users with full sudo access were removed.</br>
 Granted Watson and Mycroft sudo privileges exclusively to execute the script located at: <b>/var/log/logcleanup.sh</b>.</br>
 Allowed all employees in the research group to execute the script at: <b>/tmp/scripts/research_script.sh</b>.</br>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/G0EJNaH.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
 <p align="center">
