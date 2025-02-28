@@ -12,6 +12,8 @@ Sources: </br>
   - https://docs.google.com/document/d/1kFHWmJFY9dnGnEl-TpFPJwsUIJlDeuLyKvVo-tKvLSA/edit?tab=t.0 </br>
   - https://docs.google.com/document/d/1RmqqAC8ORFDnuLpojEUho-Rft4k_btqIrY4KenuXx1A/edit?tab=t.0 </br>
   - https://docs.google.com/document/d/1xw6dCkLgGvhmBgP69EzQ_1zYBc46x5zfXCBLvpUveIg/edit?tab=t.0 </br>
+  - https://docs.google.com/document/d/1bKEnmbsVCQWxJ6zoz-dYorkm-BWc3MchmQEWdLPczP4/edit?tab=t.0 </br>
+  - https://docs.google.com/document/d/1ZrseVTh6g5NbGiG6Wmov0ggQVeHenCsvCmejGLQ6EuU/edit?tab=t.0 </br>
 
 <h2>Technical Skills</h2>
 ✅ System Inventory & Backup Management </br>
@@ -395,199 +397,85 @@ Setting logs to rotate out after 7 days.<br />
 <br />
 <br />
 
-<h2>  </h2>
+<h2> Updating and Executing Hardening Script </h2>
+I copied the provided script 1 template into a file named hardening_script1.sh and replaced all placeholders with the correct values. After ensuring there were no placeholders remaining, I updated the script permissions and executed it for validation.
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/3eejVht.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/H0yNUrQ.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/ppNWBkL.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/TFdEcJV.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/DaPNwih.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/wMCrHM0.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/UrbUFfo.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/dRvrNbs.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
 
+<h2> Updating and Executing Hardening Script 2 </h2>
+I copied the provided script 2 template into a file named hardening_script2.sh and replaced all placeholders with the appropriate values, ensuring no placeholders remained.
 <br />
 <br />
 <p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<img src="https://i.imgur.com/qWuwWZM.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
 <p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<img src="https://i.imgur.com/ghNQof2.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
 <p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<img src="https://i.imgur.com/gbRrSDn.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
 <p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<img src="https://i.imgur.com/U4GMRLD.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
 <p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<img src="https://i.imgur.com/qVLTHcm.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
 <p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<img src="https://i.imgur.com/4ZeS2cu.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
 <p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<img src="https://i.imgur.com/iTSLWp2.png" height="80%" width="90%" alt=""/>
+<br />
+<br />
+
+<h2> Scheduling Hardening Scripts Using Cron </h2>
+I scheduled the execution of hardening_script1.sh and hardening_script2.sh using cron to automate their execution at specified intervals. These configurations ensure hardening_script1.sh runs at the beginning of each month, while hardening_script2.sh runs every Monday, helping maintain security compliance and system hardening.
 <br />
 <br />
 <p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<img src="https://i.imgur.com/uu61P6z.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
 <p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
-<br />
-<br />
-<p align="center">
-<img src="https://i.imgur.com/.png" height="80%" width="90%" alt=""/>
+<img src="https://i.imgur.com/IhzmER5.png" height="80%" width="90%" alt=""/>
 <br />
 <br />
